@@ -30,7 +30,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(/shinchan.gif);
+  background: url(./assets/img/shinchan.gif);
 }
 
 .box {

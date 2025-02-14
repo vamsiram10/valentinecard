@@ -1,4 +1,3 @@
-import "./styles/style.css";
 import gsap from "gsap";
 
 document.querySelector(".nobutton").addEventListener("mouseover", function () {

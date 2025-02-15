@@ -42,7 +42,7 @@ img {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: 41px;
+  gap: 40px;
   transition: 0.5s;
 }
 .box:hover {
